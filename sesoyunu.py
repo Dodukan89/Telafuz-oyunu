@@ -49,9 +49,12 @@ def oyun(level):
             print("Doğru telafuz ettiniz! 🥳")
         else:
             print(f"Yanlış telafuz ettiniz!")
+    else:
+        print("Sen sistemden falan kaçmaya çalışıyon heralde?")
 
 
 
 oyun(level)
     
+
         
